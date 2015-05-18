@@ -69,6 +69,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		26A838CF1B0A10040008A0C9 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				26CC46671AC5A8170032452C /* Station.h */,
+				26CC46681AC5A8170032452C /* Station.m */,
+			);
+			name = Classes;
+			sourceTree = "<group>";
+		};
 		938C35DA19F02E16000F4F50 = {
 			isa = PBXGroup;
 			children = (
@@ -93,8 +102,7 @@
 			children = (
 				938C35EB19F02E16000F4F50 /* AppDelegate.m */,
 				938C35EA19F02E16000F4F50 /* AppDelegate.h */,
-				26CC46671AC5A8170032452C /* Station.h */,
-				26CC46681AC5A8170032452C /* Station.m */,
+				26A838CF1B0A10040008A0C9 /* Classes */,
 				938C360C19F02F62000F4F50 /* StationsListViewController.h */,
 				938C360D19F02F62000F4F50 /* StationsListViewController.m */,
 				938C360F19F02F6E000F4F50 /* MapViewController.h */,

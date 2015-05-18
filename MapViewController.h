@@ -12,17 +12,16 @@
 
 //@property (readonly, nonatomic)float latitude;
 //@property (readonly, nonatomic)float longitude;
-//
 
+//@property NSNumber *latitude;
+//@property NSNumber *longitude;
 
 @property float latitude;
 @property float longitude;
-//
-//@property NSString *latitude;
-//@property NSString *longitude;
 
 
 @property NSString *name;
+@property NSString *address;
 
 
 @end

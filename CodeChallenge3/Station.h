@@ -14,10 +14,15 @@
 
 //@property (readonly, nonatomic)float latitude;
 //@property (readonly, nonatomic)float longitude;
-
-@property float latitude;
-@property float longitude;
+//
+//@property float latitude;
+//@property float longitude;
 @property NSString *name;
+
+@property NSNumber *latitude;
+@property NSNumber *longitude;
+
+
 
 //-(void)passingCoor:(CLLocationCoordinate2D *)coordinates;
 
